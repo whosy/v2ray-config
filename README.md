@@ -64,7 +64,7 @@ VPS操作系统：Centos7
 ## 客户端配置
 客户端这里以windows系统下的v2rayN软件为例。  
 首先打开软件后，添加VMess服务器，如下图，用户id、额外id可以在config.json中自己设置，但是要保证服务端和客户端中使用的是一样的。
-![配置图片][https://github.com/whosy/v2ray-config/blob/master/client_config.png]
+![配置图片](https://github.com/whosy/v2ray-config/blob/master/client_config.png)
 
 ## 套上Cloudflare
 注册Cloudflare账号，然后把原来域名的dns解析服务器设置为Cloudflare提供的dns解析服务器，然后开启Cloudflare的cdn，小云朵变为橙色。具体内容可以参考网络资料，很简单。
