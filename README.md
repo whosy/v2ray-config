@@ -52,7 +52,7 @@ VPS操作系统：Centos7
 ## 重启nginx
 >systemctl restart nginx.service
 
-这个时候在浏览器里输入https://xxx.yyy.com应该能够看到一个网站了
+这个时候在浏览器里输入 https://xxx.yyy.com 应该能够看到一个网站了
 
 ## 安装v2ray
 >curl -L -s https://install.direct/go.sh  
