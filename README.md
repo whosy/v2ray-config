@@ -63,7 +63,8 @@ VPS操作系统：Centos7
 
 ## 客户端配置
 客户端这里以windows系统下的v2rayN软件为例。  
-首先打开软件后，添加VMess服务器，如下图，用户id、额外id可以在config.json中自己设置，但是要保证服务端和客户端中使用的是一样的。
+首先打开软件后，添加VMess服务器，如下图，用户id、额外id可以在config.json中自己设置，但是要保证服务端和客户端中使用的是一样的。  
+
 ![配置图片](https://github.com/whosy/v2ray-config/blob/master/client_config.png)
 
 ## 套上Cloudflare
